@@ -10,8 +10,10 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
 
 # Installation
 
-* Open SynthV and click on the "Scripts" button.
-  ![](https://raw.githubusercontent.com/ItzIcoza/synthv-dictionaries/main/synthv-studio_kalmfsac9r.png)
+* Open SynthV and click on the "Scripts" button, then "Open Scripts Folder"
+  * ![](https://raw.githubusercontent.com/ItzIcoza/synthv-dictionaries/main/synthv-studio_kalmfsac9r.png)
+* In the screen that just opened, open the "dicts" folder.
+  * ![](https://github.com/ItzIcoza/synthv-dictionaries/blob/main/9c6d8d26eebcd766.png?raw=true)
 
 # Voicebank Guide
 
