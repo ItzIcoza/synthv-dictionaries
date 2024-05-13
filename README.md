@@ -14,4 +14,5 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
 | -------- | ------- |
 | An Xiao  | Mandarin Chinese    |
 | ANRI/ARCANE | English     |
-| March    | $420    |
+| ASTERIAN    | English    |
+| Ayame | Japanese     |
