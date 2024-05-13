@@ -20,3 +20,9 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
 |  Cong Zheng  |  Mandarin Chinese  |
 |  D-Lin  | Mandarin Chinese  |
 | Eleanor Forte  |  English  |
+
+
+# Troubleshooting
+
+## My dictionary isn't working, and I installed it correctly
+### Try one for another language.
