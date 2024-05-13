@@ -8,6 +8,9 @@ For example, if you download the ``japanese-romaji`` dictionaries, voicebanks su
 However, if you download the ``english-arpabet`` dictionaries, banks such as Eleanor Forte and ANRI will be supported, but any other bank who's primary language (aka the "Default" selection) won't work with it.
 > Note: You can download multiple folders, meaning you can have all three folders downloaded.
 
+# IMPORTANT
+To use the dictionaries, you **MUST** change the voicebank language to English. The folder names only indicate which voicebanks the dictionaries are compatible with.
+
 # Installation
 
 * Open SynthV and click on the "Scripts" button, then "Open Scripts Folder"
