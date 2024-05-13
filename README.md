@@ -14,6 +14,8 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
   * ![](https://raw.githubusercontent.com/ItzIcoza/synthv-dictionaries/main/synthv-studio_kalmfsac9r.png)
 * In the screen that just opened, open the "dicts" folder.
   * ![](https://github.com/ItzIcoza/synthv-dictionaries/blob/main/9c6d8d26eebcd766.png?raw=true)
+* In the dicts folder, paste the dictionaries you downloaded, making sure the dicts folder looks like this:
+  * ![](https://github.com/ItzIcoza/synthv-dictionaries/blob/main/explorer_P46DFGMIb3.png?raw=true)
 
 # Voicebank Guide
 
