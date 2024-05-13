@@ -11,7 +11,7 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
 # Installation
 
 * Open SynthV and click on the "Scripts" button.
-![Alt Tag]([https://i.imgur.com/PYV4crq.png](https://raw.githubusercontent.com/ItzIcoza/synthv-dictionaries/main/synthv-studio_kalmfsac9r.png)){100px:100px}
+![Alt Tag](https://i.imgur.com/PYV4crq.png](https://raw.githubusercontent.com/ItzIcoza/synthv-dictionaries/main/synthv-studio_kalmfsac9r.png){100px:100px}
 
 # Voicebank Guide
 
