@@ -16,3 +16,4 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
 | ANRI/ARCANE | English     |
 | ASTERIAN    | English    |
 | Ayame | Japanese     |
+|  Cheng Xiao  |  Mandarin Chinese  |
