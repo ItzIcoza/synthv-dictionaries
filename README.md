@@ -17,3 +17,6 @@ However, if you download the ``english-arpabet`` dictionaries, banks such as Ele
 | ASTERIAN    | English    |
 | Ayame | Japanese     |
 |  Cheng Xiao  |  Mandarin Chinese  |
+|  Cong Zheng  |  Mandarin Chinese  |
+|  D-Lin  | Mandarin Chinese  |
+| Eleanor Forte  |  English  |
