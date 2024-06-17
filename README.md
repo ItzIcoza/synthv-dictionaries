@@ -1,7 +1,7 @@
 # Synthesizer V Studio Dictionaries
 ## Language Dictionaries for Synthesizer V Studio
 
-[Download Dictionaries](https://github.com/ItzIcoza/synthv-dictionaries/releases)
+## [Download Dictionaries](https://github.com/ItzIcoza/synthv-dictionaries/releases)
 
 # Usage
 
