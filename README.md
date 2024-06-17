@@ -1,6 +1,8 @@
 # Synthesizer V Studio Dictionaries
 ## Language Dictionaries for Synthesizer V Studio
 
+[Download Dictionaries](https://github.com/ItzIcoza/synthv-dictionaries/releases)
+
 # Usage
 
 The folder name dictates the Voicebanks the dictionary will be compatible with.
